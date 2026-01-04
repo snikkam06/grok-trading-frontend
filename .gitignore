@@ -1,0 +1,19 @@
+# Xcode
+**/build/
+**/DerivedData/
+*.pbxuser
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+
+# Secrets (IMPORTANT)
+AlpacaViewer/AlpacaViewer/Config.swift
+log_shipper.py
+
+# Python
+**/__pycache__/
+venv/
+.env
+
+# OS
+.DS_Store
